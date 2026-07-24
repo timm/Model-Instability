@@ -1,0 +1,12 @@
+dataset, Scrum1k
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 0, 0, 0, 2, 13
+initial_err_sd, 25.03
+initial_jaccard, 0.272
+refined_agreement, 0, 0, 0, 0, 0, 0, 6, 23, 52
+refined_err_sd, 27.12
+refined_jaccard, 0.450
+branch_agreement, 0, 0, 0, 16, 25, 35, 61, 79, 100
+branch_err_sd, 20.49
+branch_jaccard, 0.148
+branch_fulltree_jaccard, 0.244

@@ -1,0 +1,12 @@
+dataset, Apache_AllMeasurements
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 1, 5, 9, 11, 23, 36, 43, 55, 70
+initial_err_sd, 16.28
+initial_jaccard, 0.474
+refined_agreement, 29, 47, 53, 62, 67, 70, 72, 77, 93
+refined_err_sd, 6.71
+refined_jaccard, 0.594
+branch_agreement, 50, 70, 70, 70, 70, 100, 100, 100, 100
+branch_err_sd, 14.03
+branch_jaccard, 0.674
+branch_fulltree_jaccard, 0.695

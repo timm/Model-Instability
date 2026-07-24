@@ -1,0 +1,12 @@
+dataset, auto93
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 67, 67, 67, 98, 100
+initial_err_sd, 17.29
+initial_jaccard, 0.441
+refined_agreement, 0, 0, 87, 94, 100, 100, 100, 100, 100
+refined_err_sd, 16.95
+refined_jaccard, 0.743
+branch_agreement, 0, 0, 100, 100, 100, 100, 100, 100, 100
+branch_err_sd, 0.00
+branch_jaccard, 0.543
+branch_fulltree_jaccard, 0.626

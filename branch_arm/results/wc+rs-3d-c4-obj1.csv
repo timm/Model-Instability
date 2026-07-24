@@ -1,0 +1,12 @@
+dataset, wc+rs-3d-c4-obj1
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 4, 24, 28, 32, 83, 95, 95, 100
+initial_err_sd, 1.15
+initial_jaccard, 0.648
+refined_agreement, 38, 83, 100, 100, 100, 100, 100, 100, 100
+refined_err_sd, 0.00
+refined_jaccard, 0.821
+branch_agreement, 36, 85, 91, 95, 100, 100, 100, 100, 100
+branch_err_sd, 0.67
+branch_jaccard, 0.709
+branch_fulltree_jaccard, 0.642

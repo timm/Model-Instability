@@ -1,0 +1,12 @@
+dataset, Wine_quality
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 0, 0, 0, 0, 0
+initial_err_sd, 41.76
+initial_jaccard, 0.197
+refined_agreement, 0, 0, 0, 0, 0, 0, 0, 0, 1
+refined_err_sd, 32.63
+refined_jaccard, 0.344
+branch_agreement, 0, 0, 2, 12, 21, 38, 65, 93, 100
+branch_err_sd, 31.97
+branch_jaccard, 0.108
+branch_fulltree_jaccard, 0.243

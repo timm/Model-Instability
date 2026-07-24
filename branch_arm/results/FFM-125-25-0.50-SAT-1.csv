@@ -1,0 +1,12 @@
+dataset, FFM-125-25-0.50-SAT-1
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 0, 0, 0, 0, 0
+initial_err_sd, 12.68
+initial_jaccard, 0.177
+refined_agreement, 0, 0, 0, 0, 0, 0, 12, 39, 100
+refined_err_sd, 10.34
+refined_jaccard, 0.369
+branch_agreement, 0, 0, 4, 33, 67, 87, 95, 98, 100
+branch_err_sd, 9.65
+branch_jaccard, 0.102
+branch_fulltree_jaccard, 0.139

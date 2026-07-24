@@ -1,0 +1,12 @@
+dataset, Health-ClosedIssues0001
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 0, 0, 0, 0, 0
+initial_err_sd, 39.30
+initial_jaccard, 0.446
+refined_agreement, 0, 0, 0, 0, 0, 0, 0, 0, 1
+refined_err_sd, 37.17
+refined_jaccard, 0.505
+branch_agreement, 0, 0, 11, 26, 51, 72, 84, 100, 100
+branch_err_sd, 36.27
+branch_jaccard, 0.409
+branch_fulltree_jaccard, 0.408

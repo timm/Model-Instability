@@ -1,0 +1,12 @@
+dataset, pom3a
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 0, 0, 0, 0, 0
+initial_err_sd, 37.16
+initial_jaccard, 0.271
+refined_agreement, 0, 0, 0, 0, 0, 0, 2, 5, 19
+refined_err_sd, 31.84
+refined_jaccard, 0.366
+branch_agreement, 0, 0, 2, 18, 41, 63, 72, 87, 97
+branch_err_sd, 46.46
+branch_jaccard, 0.146
+branch_fulltree_jaccard, 0.255

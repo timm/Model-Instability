@@ -1,0 +1,12 @@
+dataset, SQL_AllMeasurements
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 0, 0, 0, 0, 4, 21
+initial_err_sd, 33.49
+initial_jaccard, 0.111
+refined_agreement, 0, 0, 0, 13, 26, 35, 58, 82, 100
+refined_err_sd, 36.79
+refined_jaccard, 0.426
+branch_agreement, 0, 0, 0, 0, 5, 38, 85, 100, 100
+branch_err_sd, 51.02
+branch_jaccard, 0.068
+branch_fulltree_jaccard, 0.110
