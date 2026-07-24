@@ -1,0 +1,12 @@
+dataset, rs-6d-c3_obj1
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 8, 20, 24, 32, 56, 86, 100, 100, 100
+initial_err_sd, 16.81
+initial_jaccard, 0.455
+refined_agreement, 0, 66, 100, 100, 100, 100, 100, 100, 100
+refined_err_sd, 16.01
+refined_jaccard, 0.542
+branch_agreement, 58, 100, 100, 100, 100, 100, 100, 100, 100
+branch_err_sd, 13.77
+branch_jaccard, 0.329
+branch_fulltree_jaccard, 0.448

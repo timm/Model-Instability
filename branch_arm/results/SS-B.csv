@@ -1,0 +1,12 @@
+dataset, SS-B
+sigmas, 0.15, 0.25, 0.35, 0.45, 0.55, 0.65, 0.75, 0.85, 1
+initial_agreement, 0, 0, 0, 4, 4, 4, 10, 33, 64
+initial_err_sd, 16.83
+initial_jaccard, 0.654
+refined_agreement, 2, 2, 4, 10, 22, 44, 64, 68, 100
+refined_err_sd, 12.60
+refined_jaccard, 0.794
+branch_agreement, 0, 0, 0, 4, 10, 24, 84, 100, 100
+branch_err_sd, 15.08
+branch_jaccard, 0.695
+branch_fulltree_jaccard, 0.694
